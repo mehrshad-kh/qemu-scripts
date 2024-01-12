@@ -1,0 +1,5 @@
+*.qcow2
+shared
+
+# macOS
+.DS_Store
